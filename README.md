@@ -1,6 +1,6 @@
 # Daily Quote Notification
 
-Script PHP standalone untuk mengirim quote motivasi harian (Inggris + terjemahan Indonesia) secara otomatis ke WhatsApp lewat [DialogWA](https://dialogwa.web.id/wa), dijadwalkan via cronjob.
+Script PHP standalone untuk mengirim quote motivasi harian (Inggris + terjemahan Indonesia) secara otomatis ke WhatsApp lewat [DialogWA](https://dialogwa.com), dijadwalkan via cronjob.
 
 ## Fitur
 
